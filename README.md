@@ -1,4 +1,4 @@
-uDeltaPlugin_for_Repetier_Host
+uDeltaPlugin for Repetier Host
 ==============================
 
 This is the sources of the µDelta Plugin we give to our customer.
