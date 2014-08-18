@@ -4,7 +4,7 @@ uDeltaPlugin for Repetier Host
 This is the sources of the µDelta Plugin we give to our customer.
 
 It was originaly just a prototype in order to see if it works or not
-but under the constraint of time we transformed it into a public version.
+but under the constraint of time and joviality of some of our customers we transformed it into a public version.
 So sadly it is still a demo version, and really really rough and hardcoded!!
 The prototype was coded really quickly (with the time we have...) and I couldn't spend more time until now...
 Please be carefull with your eyes, you may bleed.
