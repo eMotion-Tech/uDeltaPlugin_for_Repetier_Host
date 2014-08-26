@@ -17,6 +17,8 @@ I may add some features and code clarification soon:
 - Some more expert mode features (as special auto-configuration, or serial-number based auto-update)
 
 
+Caution: The plugin file and main folder name have to be the same otherwise the plugin will not be recognised on Repetier Host.
+
 @Repetier: if you read this, thanks for your great work!! 
 Plugin possibility is really really cool for any user! Please keep your host free!
 
